@@ -22,7 +22,7 @@ Code reviews are essential in software development. Let someone else look at and
 ### Is the source code checked in to version control?
 Source code that isn't in version control doesn't exist for anyone else but you. If didn't push, your truck count equals 1 at all times!
 ### Is your code released and in production?
-Build a release of your code and put it in a state that can be accessed by the product owner. This can be checked by preparing yourself for the demo. Test the steps of the demo on the production environment.
+Build a release of your code and put it in a state that can be accessed by the product owner. This can be checked by preparing yourself for the demo. Test the steps of the demo on the production environment. You might want to test your application on someone elses computer. ("Works on my machine" is bad!)
 ### Did you comment the code and application well?
 Documentation on how to use the application as well as what the code does is necessary for anyone else to use the application or continue development.
 ### Did the product owner accept the US as done?
