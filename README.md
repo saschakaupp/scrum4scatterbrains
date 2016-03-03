@@ -18,7 +18,7 @@ You implemented a well hidden feature or something that needs some knowledge to 
 ### Are all acceptance criteria fulfilled?
 Try to use the application the way it's intended. Does everything that is required by the acceptance criteria work?
 ### Has the code been reviewed?
-Code reviews are essential in software development. Let someone else look at and criticize your code. Some bugs can come up right now.
+Code reviews are essential in software development. Let someone else look at and criticize your code. Some bugs can come up right now. You can improve your coding skills. 
 ### Is the source code checked in to version control?
 Source code that isn't in version control doesn't exist for anyone else but you. If didn't push, your truck count equals 1 at all times!
 ### Is your code released and in production?
